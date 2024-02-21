@@ -1,0 +1,1 @@
+Site realizado como desafio final do curso de Iniciante em Programação Alura + Oracle. Contém as funcionalidades de criptografar, descriptograr, e copiar o texto gerado para a área de transferência, e segue o design e as normas fornecidas pelo desafio.
